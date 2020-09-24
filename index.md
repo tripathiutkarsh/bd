@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/tripathiutkarsh/bd/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tripathiutkarsh/bd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Analyzing Big Data
+1.    [Thursday, August 20, 2020](https://asuonline.wistia.com/medias/97qy2bgj6n/) - Scala Coding, Correlation Coefficient
+2.    [Tuesday, August 25, 2020](https://asuonline.wistia.com/medias/5rp0vw47n1) - Databricks, Intellij Interactive Worksheet
+3.    [Thursday, August 27, 2020](https://asuonline.wistia.com/medias/qxpjdakg84) - Intellij notes + HW discussion
+4.    [Tuesday, September 1, 2020](https://asuonline.wistia.com/medias/lkh16sak72) - Hadoop analysis, Scala/Spark - A Geometric Approach
+5.    [Tuesday, September 8, 2020](https://asuonline.wistia.com/medias/ocvzndwo0f) - 
+6.    [Tuesday, September 15, 2020](https://asuonline.wistia.com/medias/9jdbwt9fx1) - Dataframes/Datasets in Intellij
+7. a) [Thursday, September 17,2020](https://asuonline.wistia.com/medias/9xrxeeej0p) - Mathematica & Quiz 1 discussion
+7. b) [Thursday, September 17,2020](https://asuonline.wistia.com/medias/8sa5xo9kin) - Mathematica & Multivariable Statistical Triangle (from Adv. Analytics for Big Data/AI)
+8.    [Tuesday, September 22, 2020](https://asuonline.wistia.com/medias/y87qp76r19) - DataFrames, Datasets, Pattern Matches
