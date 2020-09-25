@@ -8,3 +8,4 @@
 7. a) [Thursday, September 17,2020](https://asuonline.wistia.com/medias/9xrxeeej0p) - Mathematica & Quiz 1 discussion
 7. b) [Thursday, September 17,2020](https://asuonline.wistia.com/medias/8sa5xo9kin) - Mathematica & Multivariable Statistical Triangle (from Adv. Analytics for Big Data/AI)
 8.    [Tuesday, September 22, 2020](https://asuonline.wistia.com/medias/y87qp76r19) - DataFrames, Datasets, Pattern Matches
+9.    [Thursday, September 24, 2020](https://asuonline.wistia.com/medias/jszkrhkrnl) - DataFrames, Datasets (Continued), Entropy
