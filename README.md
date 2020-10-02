@@ -11,3 +11,4 @@
 9.    [Thursday, September 24, 2020](https://asuonline.wistia.com/medias/jszkrhkrnl) - Datatypes(JSON), Entropy
 10.   [Monday, September 28, 2020 (Bonus)](https://asuonline.wistia.com/medias/kixfvlxybl) - Join Types { Inner, Left, Right, Full, Cross} 
 11.   [Tuesday, September 29, 2020](https://asuonline.wistia.com/medias/db8qx8uxss) - Entropy (Mini Quiz), Geometric Interpretation for SVMs
+12.   [Thursday, October 1, 2020](https://asuonline.wistia.com/medias/zkisrqnf7c) - [&#11015;&#65039;](https://canvas.asu.edu/files/22055674/download?verifier=wclcwywBGIVEequA36lnLQTRtzUPaAKpz03leAWX) - Zoom + mathematica notebook
