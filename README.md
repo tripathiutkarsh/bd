@@ -14,3 +14,4 @@
 12.   [Thursday, October 1, 2020](https://asuonline.wistia.com/medias/zkisrqnf7c) - [&#11015;&#65039;](https://canvas.asu.edu/files/22055674/download?verifier=wclcwywBGIVEequA36lnLQTRtzUPaAKpz03leAWX) - Zoom + mathematica notebook
 13.   [Tuesday, October 6, 2020](https://asuonline.wistia.com/medias/glmpywto5p) - [&#11015;&#65039;](https://canvas.asu.edu/files/22313936/download?verifier=SUW7rFfS8HjJSjcB0EWD2ya556QbbxE5Ub7wAdFA) - Logistic Regression Ch 4 of Data Science Book & Spark
 14.   [Thursday, October 8, 2020](https://asuonline.wistia.com/medias/3cim96zh4w) - 
+15.   [Thursday, October 15, 2020](https://asuonline.wistia.com/medias/akjhu7iz4j) - [&#11015;&#65039;](https://canvas.asu.edu/files/22913885/download?verifier=lRq7amDYOEQlRit101Plil6qrhwukAJRg161SyAt)
